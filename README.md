@@ -4,7 +4,7 @@
 This project is a Streamlit-based web application that provides multiple functionalities using Natural Language Processing (NLP) and Image Generation models. Users can choose from various tasks such as text summarization, next word prediction, story generation, chatbot interactions, sentiment analysis, question answering, and image generation.
 
 
-Features
+# Features
 
 
 Text Summarization: Summarize large bodies of text into concise summaries.
@@ -22,7 +22,7 @@ Question Answering: Provide answers to questions based on provided context.
 Image Generation: Create images based on textual descriptions.
 
 
-Models Used
+# Models Used
 
 
 Text Summarization: facebook/bart-large-cnn from Hugging Face.
@@ -36,7 +36,7 @@ Question Answering: Pretrained question-answering pipeline from Hugging Face.
 Image Generation: Stable Diffusion model from Hugging Face’s CompVis/stable-diffusion-v1-4.
 
 
-Usage
+# Usage
 
 
 Select a Task: Choose the desired task from the sidebar.
